@@ -1,0 +1,24 @@
+* {
+    font-family: 'Montserrat';
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+ul {
+    text-justify: initial;
+}
+
+li {
+    color: white;
+    padding: .3em;
+}
+
+#nome {
+    font-size: 3rem;
+}
